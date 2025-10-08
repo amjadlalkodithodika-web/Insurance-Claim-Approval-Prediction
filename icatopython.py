@@ -13,7 +13,7 @@ with col2:
     st.title("Insurance Claim Approval Prediction System")
     st.header("AI-Powered Insurance Claim Decision Support")
 with col2:
-    st.image("policy_approval\Insurance-claims.jpg",use_column_width=True)
+    st.image("policy_approval/Insurance-claims.jpg",use_column_width=True)
 col1,col2,col3=st.columns([1,4,1])
 with col2:
     st.markdown(""" 'This project leverages machine learning to predict the likelihood of insurance 
